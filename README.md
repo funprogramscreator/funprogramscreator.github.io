@@ -68,7 +68,6 @@ This policy is effective as of 2021-11-14
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at funprogramscreator@gamail.com.
 
-### Jekyll Themes
 
 ### Support or Contact
 
