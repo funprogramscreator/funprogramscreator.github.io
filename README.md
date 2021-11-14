@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## FunProgramsCreator
 
-You can use the [editor on GitHub](https://github.com/funprogramscreator/funprogramscreator.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We make mobile applications that will bring you joy!
 
 ### Markdown
 
